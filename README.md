@@ -1,4 +1,4 @@
-## Hi, I’m Amogh 👋
+# Hi, I’m Amogh 👋
 
 # 💫 About Me:
 I am a motivated Computer Science student with hands-on experience in C, C++, Java, HTML, and CSS, along with working knowledge of Python, JavaScript, and SQL. I have a strong foundation in DBMS and Computer  Organization, and I enjoy building projects that strengthen my programming and problem-solving skills.<br><br>🎯 Areas of Interest<br><br>🔹 Full-Stack Web Development – Designing and building scalable web applications using Spring Boot, REST APIs, MySQL, and the MERN stack.<br><br>🔹 Backend Development & API Design – Creating structured, maintainable server-side systems and efficient RESTful services.<br><br>🔹 Data Structures & Algorithms – Applying algorithmic thinking to solve real-world optimization and system design problems.<br><br>🔹 Computer Vision & Video Systems – Exploring visual data processing and video quality assessment workflows.<br><br>🔹 Agile Development & Version Control – Practicing Scrum-based workflows and collaborative development using Git & GitHub.
